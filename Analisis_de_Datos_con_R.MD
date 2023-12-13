@@ -8,7 +8,7 @@ output:
   html_document: default
 ---
 
-# ** Introducción al análisis de datos con R**
+# **Introducción al análisis de datos con R**
 
 ## 1. **Introducción a R:**
 
